@@ -1,0 +1,6 @@
+javacucumberpom/pageObjects/common/Footer.class
+javacucumberpom/stepDefinitions/Dashboard.class
+javacucumberpom/cucumber/CucumberHooks.class
+javacucumberpom/pageObjects/common/Header.class
+javacucumberpom/cucumber/RunCucumberTest.class
+javacucumberpom/pageObjects/Dashboard.class
